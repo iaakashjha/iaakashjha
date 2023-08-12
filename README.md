@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aakash Jha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaakashjha" alt="iaakashjha" /></a> </p>
 
+-  I'm currently pursuing Btech in (Computer Engineering) From GHRCEM, Pune.
+ 
 - 🔭 I’m currently working on **Backend Technology.**
 
 - 🌱 I’m currently learning **MongoDB,Express.js,React.js and Node.js(MERN)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iaakashjha](https://github.com/iaakashjha)
 
 - 📫 How to reach me **aakashjha548@gmail.com**
 
